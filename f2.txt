@@ -1,0 +1,5 @@
+In the next lab we will be going to practise EXPERIMENT-04
+Experiment-04 include Merging the Branches
+There are two types of merging:
+    a) fast-forward merge
+    b)3-way merge
